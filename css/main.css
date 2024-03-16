@@ -1177,12 +1177,12 @@ height: 70px;
     padding: 0;
    }
    .services__title_btn{
-    margin-left: -110px;
+    margin-left: -150px;
     padding: 10px 0px;
     font-size: 30px;
    }
    .services__text_btn{
-    margin-left: -110px;
+    margin-left: -150px;
     padding: 0;
     font-size: 20px;
    }
@@ -1204,7 +1204,7 @@ height: 70px;
    }
    .section__btn{
     width: 250px;
-  margin-left: -100px;
+  margin-left: -130px;
    
    }
    .footer__img{
