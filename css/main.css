@@ -1166,11 +1166,9 @@ height: 70px;
     align-items: center;
    }
    .services__list_btn{
-    background-color: red;
+  
     display: block;
     align-items: center;
- margin-left: -10git add .
- 0px;
     padding: 0;
    }
    .services__item_btn{
