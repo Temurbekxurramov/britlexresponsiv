@@ -1174,7 +1174,7 @@ height: 70px;
    .services__item_btn{
     align-items: center;
     margin: 0 auto;
-    padding: 0;
+    padding-left: 50px;
    }
    .services__title_btn{
     margin-left: -100px;
